@@ -5,4 +5,4 @@ Para ejecutar los programas, es necesario ingresar a la carpeta correspondiente 
 
 Ingresar a la carpeta "Punto_1".
 Ejecutar el archivo "Pregunta_1.py".
-El programa mostrará los resultados, generando ejemplos aleatorios de tamaños 10, 100, 1000 y 10000.
+El programa mostrará los resultados, generando ejemplos aleatorios de tamaños 10, 100, 1000 y 10000. Cada carpeta cuenta con un PDF con la explicacion del codigo. 
